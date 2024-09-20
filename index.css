@@ -1,0 +1,9 @@
+.big-title {
+  font-size: 2rem;
+  color: red;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.margin-50 {
+  margin: 50px;
+}
